@@ -23,4 +23,4 @@ Gayle, V. and Lambert, P. (2018) What is Quantitative Longitudinal Data Analysis
 
 Available at Amazon https://tinyurl.com/y8cbf7c2 or directly from Bloomsbury https://tinyurl.com/y9x5fltk
 
-![Q-Step_Slide](http://www.vernongayle.com/uploads/2/2/3/0/22304498/picture1_orig.jpg)
+![picture](https://media.bloomsbury.com/rep/f/9781472515407.jpg)
