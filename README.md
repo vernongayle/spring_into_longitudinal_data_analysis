@@ -1,4 +1,7 @@
+# <span style="font-family:Papyrus; font-size:2em;">Spring into Longitudinal Data Analysis</span>
+
 # Spring into Longitudinal Data Analysis #
+
 
 The Spring into Methods Programme is a new initiative to offer interdisciplinary learning, of a specific method over 2 ½ days, 
 in a space shared by Arts, Humanities and Social Science post-graduate students in Scotland.
