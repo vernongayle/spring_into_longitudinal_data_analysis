@@ -21,6 +21,8 @@ The course will be supported by
 
 Gayle, V. and Lambert, P. (2018) What is Quantitative Longitudinal Data Analysis?  Bloomsbury Publishing.
 
+![picture](https://media.bloomsbury.com/rep/f/9781472515407.jpg)
+
 Available at Amazon https://tinyurl.com/y8cbf7c2 or directly from Bloomsbury https://tinyurl.com/y9x5fltk
 
-![picture](https://media.bloomsbury.com/rep/f/9781472515407.jpg)
+
